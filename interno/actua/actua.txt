@@ -1,0 +1,83 @@
+<!doctype html>
+
+<head>
+<meta charset="utf-8">
+<title> BASTA YA </title>
+<style>
+
+*{margin:0;padding:0;}
+html{background-color:#EEF7F4;}
+
+body
+{width:1000px;height:1000px;margin:auto;background-color:pink;}
+
+header{width:1000px;height:200px;background-color:blue;}
+nav{width:1000px;height:90px;background-color:#FDFF8F;}
+footer{width:300px;height:355px;float:right;background-color:red;}
+
+section#logo{width:200px;height:200px;float:left;background-color:#42FFD7;}
+section#banner{width:800px;height:200px;float:left;background-color:#B8739B;}
+
+article{width:300px;height:355px;float:right;background-color:orange;}
+aside{width:700px;height:710px;float:left;background-color:green;}
+</style>
+</head>
+
+<body>
+<header>
+
+ </section>
+
+</header>
+
+<nav>
+ 
+<nav>
+ 
+
+
+<nav>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="tipos.html"><font color="black" size="+2"> TIPOS </font>
+</a> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="index.html"><font color="black" size="+2"> INICIO </font></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="INFORMATE.html"><font color="black" size="+2"> INFÓRMATE </font></a> 
+
+</nav>
+  
+
+<main> 
+<article> 
+</article>
+<aside>¿Que hacer si soy victima?
+Si eres víctima de violencia familiar, psicológica, física o sexual tienes que denunciar la agresión en la comisaria. Ningún acto se violencia debe ser callado. 
+Pero, ¿qué pasa si la policía no quiere tomar la denuncia o te dicen que ellos no pueden meterse en un caso así? Existe la Ley Nro. 30364, aprobada a fines de 2015, que garantiza una atención integral a favor de las mujeres violentadas y obliga a la policía aceptar tu denuncia y verificar si el hecho es cierto acercándose hasta el lugar.
+¿Que hacer si soy testigo? 
+La acción de cada uno puede cambiar esta situación. Si eres un simple testigo, intervenir es necesario. Según el Programa Nacional Contra la Violencia Familiar y Sexual del Ministerio de la Mujer, muchos casos han salido a la luz gracias a la denuncia de testigos. 
+Llamar a la línea 100 del Ministerio de la Mujer sirve para apoyar a las víctimas de agresiones contra mujeres. Está abierta las 24 horas del día, los 365 días del año. A quienes llaman se les recomienda qué hacer en ese mismo momento para proteger su vida. Si la persona que llama es la víctima, de inmediato la atenderá el Servicio de Atención Urgente (SAU) en el mismo número telefónico.
+¿Que hacer si soy familiar?
+Las personas que están cerca de la víctima, sus familiares, deben ser conscientes de que su ayuda es también clave. Si eres familiar de la víctima, tú mismo puedes solicitar la orden de protección. 
+Es importante que escuches a la víctima y le hagas ver que no está sola y que ella no es la culpable de la situación, pero no la presiones a tomar medidas. 
+ </aside>
+</main>
+
+<footer>
+ <div class="rectangulo">
+<style>
+.rectangulo{
+padding:0px;
+margin:0px;
+background-color: white;
+color: blue;
+text-align: center;
+height:355px;
+width:150px;
+}
+</style>
+ </div> </footer>
+
+</body>
+</html>

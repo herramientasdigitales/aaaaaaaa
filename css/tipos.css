@@ -1,0 +1,79 @@
+ *{
+	padding:0;
+	margin:0;
+}
+
+body{
+	background-image:
+radial-gradient(closest-side, transparent 0%, transparent 75%, #B6CC66 76%, #B6CC66 85%, #EDFFDB 86%, #EDFFDB 94%, #FFFFFF 95%, #FFFFFF 103%, #D9E6A7 104%, #D9E6A7 112%, #798B3C 113%, #798B3C 121%, #FFFFFF 122%, #FFFFFF 130%, #E0EAD7 131%, #E0EAD7 140%),
+radial-gradient(closest-side, transparent 0%, transparent 75%, #B6CC66 76%, #B6CC66 85%, #EDFFDB 86%, #EDFFDB 94%, #FFFFFF 95%, #FFFFFF 103%, #D9E6A7 104%, #D9E6A7 112%, #798B3C 113%, #798B3C 121%, #FFFFFF 122%, #FFFFFF 130%, #E0EAD7 131%, #E0EAD7 140%);
+background-size: 110px 110px;
+background-color: #C8D3A7;
+background-position: 0 0, 55px 55px;
+}
+
+#contenedor{
+	width: 1000px;
+	margin: auto;
+	margin-top: 0px;
+	margin-bottom:0px;
+	border-radius: 0px;
+	overflow: hidden;
+}
+
+header{ 
+    width:1000px;            
+	height: 200px;
+	background: #ff00ff;
+}
+	
+header h1{
+	text-align: center;
+ 
+}    
+
+nav{
+	height: 90px;
+	font-size: 30px;
+	line-height: 60px;
+	background: #FDFF8F;
+}
+
+#contenido h2{
+	font-size: 40px;
+
+	line-height: 500px;
+}
+article{
+	width: 500px;
+	height: 700px;
+	background: A38FA7;
+	margin-top: 0px;
+	margin-right: 0px
+}
+			
+aside{
+	width: 500px;
+	height: 700px;
+	background: #AFAFAF;
+	margin-top: 0px;
+	float: right;
+}
+
+aside h2{
+	font-size: 40px;
+	line-height: 500px;
+}
+
+footer{
+        width: 1000px;
+        height: 100px;
+		box-sizing: border-box;
+	    background: #FFC3E6;
+	    clear: both;
+}
+
+footer h2{
+	font-size: 100px;
+	padding: 0px;
+}

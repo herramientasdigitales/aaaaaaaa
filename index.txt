@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+              
+
+<meta http-equiv='Content-Type' 
+content='text/html; charset=iso-8859-1' />
+<meta name="viewport" content="width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">              
+ 
+<title> NO MAS </title>
+
+
+<meta name="viewport" content="width=device-width;user-scalable=no, initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0">
+<link href="css/estilos.css" rel="stylesheet">
+
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+	<script src="javascript/main.js"></script>
+</head>
+
+
+
+<body>
+
+
+<div id="contenedor">
+
+
+
+<header>
+
+
+<section id="logo">
+  
+<img width="200" height="200" src="img/images.jpg">
+
+
+</section>
+
+<section id="banner">
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="100" height="90" src="img/instagram_hashtag.png"> 
+<h1 align="center"><font color="black" size="+7">NO MÁS VIOLENCIA</font>
+
+ </h1>
+<hr>
+<i><marquee>Juntos podemos detener la violencia hacia la mujer</marquee></i></section>
+
+</header>
+
+<nav>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="tipos.html"><font color="black" size="+2"> TIPOS </font>
+</a> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="Actua.html"><font color="black" size="+2"> ACTÚA </font></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="INFORMATE.html"><font color="black" size="+2"> INFÓRMATE </font></a> 
+
+</nav>
+ 
+
+<article>
+ 
+
+<section id="contenido">  
+
+
+<div class="cuadrado">
+
+<h3><center><p style="color:#CD6155;">Centros de ayuda para las víctimas:</P></center>
+</h3>
+
+<p><img width="120" height="70" src="img/000231058W.jpg"><a href="https://www.mimp.gob.pe/homemimp/centro-emergencia-mujer.php"><p style="color:#B3486A;">Centro emergencia mujer (CEM)</a></p></p>
+<p><p style="color:#000000;">La persona encargada tomará toda la información del hecho.</P></p>
+<p><img width="120" height="70" src="img/cai-brena-vale.jpg"><a href="https://www.mimp.gob.pe/contigo/contenidos/pncontigo-articulos.php?codigo=16"><p style="color:#B3486A;">Centros de Atención Institucional</a></p></p>
+<p><p style="color:#000000;">es un servicio gratuito que procura la integridad física, emocional y sexual de las víctimas.</p></p>
+<p><img width="120" height="70" src="img/000241807W.jpg"><a href="https://www.mpfn.gob.pe/"><p style="color:#B3486A;">Ministerio Público</a></p></p>
+<p><p style="color:#000000;">Mediante la Aplicación‘Yo Denuncio ’, permite así realizar la denuncia desde cualquier celular.</p></p>
+
+</div>
+
+
+<style>
+
+
+.cuadrado{
+
+
+margin:0px;
+
+padding-bottom:40px;
+
+
+background-color: #00FF00;
+
+
+color: gray;
+
+
+height: 350px;
+
+
+width:280px;
+
+
+}
+
+
+</style>
+
+
+</section>
+
+<img height="310" width="280" src="img/g.png" >
+</article>
+
+
+
+
+
+
+<section id="contenido">  
+
+
+<div class="rectangulo">
+&nbsp;<center><B><u>DEFINICIÓN</u></B></center>
+
+&nbsp;<P ALIGN= "justify">Se entiende por acoso a la acción de acosar. Acosar es perseguir, con empeño y ardor, sin darle tregua al reposo, a una persona.</p> <P ALIGN= "justify">El acoso puede darse en cualquier ámbito y lo puede sufrir cualquier individuo sin distinción social, educativo, económico. Como tal, el acoso puede ser ejercido por agresores de jerarquías superiores, iguales o inferiores en referencia a la víctima, a través de la práctica de actos violentos o intimidatorios constantes sobre una persona, con el fin de desestabilizar a la víctima y crear incomodidad o disconformidad en la propia.</p>
+<h5>
+
+&nbsp;<img height="150" src="img/HOLA.MP4" ;width="150"></h5>
+&nbsp;<p><P ALIGN="LEFT"><font color="BLUE">&nbsp;&nbsp;CAUSAS:</FONT></P></P>
+<P><P ALIGN= "justify">-Los estereotipos que rodean el tema y la falta de contexto en que se presentan los acontecimientos. </P></P>
+<P><P ALIGN= "justify">-El abuso de poder. Este rasgo entronca con el mito clásico sobre la irrefrenable sexualidad masculina y en particular la de los poderosos e hizo asumir que se trataba siempre de un problema de jerarquía.</P></p> 
+<P><P ALIGN= "justify">-El sexismo que impregna la sociedad patriarcal y que para naturalizarse busca tapaderas como asociar la denuncia del acoso con cierto puritanismo sexual.<P> </p>
+<p><P ALIGN="LEFT"><font color="BLUE">&nbsp;&nbsp;CONSECUENCIAS:</FONT></P></P> 
+<P><P ALIGN= "justify">-Psicológicas: estrés, ansiedad, depresión, insomnio, cansancio, falta de concentración, sentimiento de culpa, afectación de la imagen de sí mismo, baja autoestima.</P></p> 
+<P><P ALIGN= "justify">-Físicas: dolor de estómago, dolor de cabeza, náuseas, disturbios del sueño.</P> </p>
+<P><P ALIGN= "justify">-Laborales: deterioro en el desempeño, menor productividad, ausentismo y abandono del puesto de trabajo.</P></p>  
+
+</div>
+
+
+<style>
+
+
+.rectangulo{
+
+
+padding:0px;
+
+
+margin:0px;
+
+background-color: white;
+
+
+color: black;
+
+
+text-align: center;
+
+
+height:700px;
+
+
+width:440px;
+
+
+}
+
+</style>
+
+</section>
+
+
+
+
+
+<aside>
+
+<h3><center><p style="color:#CD6155;">Los casos de acoso más conocidos en el Perú</P></center>
+</h3>
+
+<br><p><a href="https://gestion.pe/peru/politica/marisa-glave-denuncia-periodista-acoso-congreso-facebook-nndc-257701"><p style="color:#B3486A;">-El congresiste Yonhy Lescano suspendido del parlamento por el supuesto acoso sexual a una periodista.</a></p></p> 
+<p><img width="140" height="90" src="img/5ca583104e4b8.jpeg"></p>
+<br><br><br><br><br><br><p><a href="https://gestion.pe/peru/politica/marisa-glave-denuncia-periodista-acoso-congreso-facebook-nndc-257701"><p style="color:#B3486A;">-La congresista Marisa Glave, denuncia a un periodista por acoso, dentro del congreso.</a></p></p> 
+<p><img width="140" height="90" src="img/5c4bdc94d3dea.jpeg"></p>
+<br><br><br><br><br><br><p><a href="https://peru21.pe/politica/aceptan-renuncia-procurador-contraloria-denunciado-acoso-practicante-464960"><p style="color:#B3486A;">-Porocurador de la contraloría. renunció tras haber sido acusado de acoso por una practicante.</a></p></p> 
+<p><img width="140" height="90" src="img/5b79d896783cd.jpeg"></p>
+<br><br><br><br><br><br><p><a href="https://elcomercio.pe/peru/amazonas/fiscalia-abrio-investigacion-alcalde-cumba-presunto-acoso-sexual-noticia-nndc-632800"><p style="color:#B3486A;">-Alcalde distrital de Cumba es invesrtigado por presunto acoso sexual.</a></p></p> 
+<p><img width="140" height="90" src="img/5cd09fe66ee98.jpeg"></p>
+
+
+</aside> 
+                      
+
+
+<footer>       
+
+
+<h3><p style="color:black;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contacto:</P></h3><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/Isa.cab.97.php?id=100001613283605">Facebook.</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<font color="black">Teléfono: 951253250</font></p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/isabelcaballero.cr/?fbclid=IwAR08PeiTuw9ELouq0-jfu3e28m-Lmy7Ve66MqPYZCGF6iq_BnCqCwEanM5Y"> Instagram </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<font color="black"> Correo: clau.cb.65@hotmail.com</font></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/claucaballero97?fbclid=IwAR2jMw2cJK5GemWSUanYtAiBHAHg2LTfQEXwf8kOutINjMwTTMf4Bxo4cP4">Twitter</a>
+</p>
+
+      
+
+ </footer>
+
+</div>
+
+
+
+
+ 
+</body></html> 
